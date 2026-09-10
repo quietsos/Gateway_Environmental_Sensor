@@ -1,0 +1,226 @@
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0805
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found C0201
+Add component: Footprint Not Found CAPPM7344X430N
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0603
+Add component: Footprint Not Found C0402
+Add component: Footprint Not Found C0402
+Add component: Footprint Not Found 0603D-B
+Add component: Footprint Not Found 0603D-B
+Add component: Footprint Not Found 0603D-B
+Add component: Footprint Not Found SAMTEC_HMTSW-102-X-X-S-X
+Add component: Footprint Not Found GCT_USB4135-GF-A_REVA
+Add component: Footprint Not Found SAMTEC_MTSW-106-07-L-S-170
+Add component: Footprint Not Found 532617002
+Add component: Footprint Not Found SAMTEC_HTSW-101-24-LM-S
+Add component: Footprint Not Found CUI_NSIM-2-C
+Add component: Footprint Not Found 4.0 mm × 4.0 mm
+Add component: Footprint Not Found 4.0 mm × 4.0 mm
+Add component: Footprint Not Found 4.0 mm × 4.0 mm
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT23
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found SOT23
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0805
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0201
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0603
+Add component: Footprint Not Found R0402
+Add component: Footprint Not Found R0402
+Add component: Footprint Not Found R0402
+Add component: Footprint Not Found R0402
+Add component: Footprint Not Found 5.2 mm × 5.2 mm SW
+Add component: Footprint Not Found 5.2 mm × 5.2 mm SW
+Add component: Footprint Not Found XCVR_ESP32-S3-WROOM-1U-N16R8
+Add component: Footprint Not Found SOP127P600X165-9N
+Add component: Footprint Not Found SOT95P280X145-5N
+Add component: Footprint Not Found TSOT-23_S5
+Add component: Footprint Not Found SOT95P280X145-5N
+Add component: Footprint Not Found TSOT-23_S5
+Add component: Footprint Not Found SOT95P237X112-3N
+Add component: Footprint Not Found PSON65P250X250X100-8N
+Add component: Footprint Not Found LCC-8_L5.0-W5.0-P1.27-BL
+Add component: Footprint Not Found LCC-8_L5.0-W5.0-P1.27-BL
+Add component: Footprint Not Found SENSORS-SMD_GM-402B
+Added Component: Designator=U12(MODULE_RA-01s_LORA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RA-02_LORA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found SMD
+Add component: Footprint Not Found SOT363
+Added Component: Designator=U15(Pi_zero)
+Added Net: Name=2V5
+Added Net: Name=2V8
+Added Net: Name=2V
+Added Pin To Net: NetName=3V3 Pin=U12-3
+Added Net: Name=3V3
+Added Net: Name=4V
+Added Pin To Net: NetName=5V Pin=U15-2
+Added Pin To Net: NetName=5V Pin=U15-4
+Added Net: Name=5V
+Added Net: Name=ENABLE
+Added Net: Name=G.RXD
+Added Net: Name=G.TXD
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-16
+Added Pin To Net: NetName=GND Pin=U15-6
+Added Pin To Net: NetName=GND Pin=U15-9
+Added Pin To Net: NetName=GND Pin=U15-14
+Added Pin To Net: NetName=GND Pin=U15-20
+Added Pin To Net: NetName=GND Pin=U15-25
+Added Pin To Net: NetName=GND Pin=U15-30
+Added Pin To Net: NetName=GND Pin=U15-34
+Added Pin To Net: NetName=GND Pin=U15-39
+Added Net: Name=GND
+Added Net: Name=IO0
+Added Net: Name=NetC13_1
+Added Net: Name=NetC16_2
+Added Net: Name=NetC17_2
+Added Net: Name=NetC21_1
+Added Net: Name=NetC43_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetJ2_A5
+Added Net: Name=NetJ2_B5
+Added Net: Name=NetJ3_02
+Added Net: Name=NetJ3_03
+Added Net: Name=NetJ3_04
+Added Net: Name=NetJ3_05
+Added Net: Name=NetJ5_01
+Added Net: Name=NetJ6_S/W
+Added Net: Name=NetL1_1
+Added Net: Name=NetL2_1
+Added Net: Name=NetL3_1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ2_1
+Added Net: Name=NetQ4_1
+Added Net: Name=NetR12_1
+Added Net: Name=NetR12_2
+Added Net: Name=NetR16_1
+Added Net: Name=NetR17_2
+Added Net: Name=NetR20_1
+Added Net: Name=NetR21_1
+Added Net: Name=NetR22_1
+Added Net: Name=NetR23_1
+Added Net: Name=NetR25_1
+Added Net: Name=NetR26_1
+Added Net: Name=NetR27_1
+Added Net: Name=NetR33_1
+Added Net: Name=NetR34_1
+Added Pin To Net: NetName=NetU1_4 Pin=U12-6
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_13 Pin=U15-10
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U15-8
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U12-10
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_18 Pin=U12-15
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU1_19 Pin=U12-14
+Added Net: Name=NetU1_19
+Added Pin To Net: NetName=NetU1_20 Pin=U12-12
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_21 Pin=U12-13
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_22 Pin=U12-4
+Added Net: Name=NetU1_22
+Added Net: Name=P.06
+Added Net: Name=P.07
+Added Net: Name=P_SCL
+Added Net: Name=P_SDA
+Added Net: Name=PR_SIM
+Added Net: Name=RXD
+Added Net: Name=simCLK
+Added Net: Name=simData
+Added Net: Name=simRST
+Added Net: Name=simVcc
+Added Net: Name=TXD
+Added Net: Name=V_Input
+Added Net: Name=VDD_EXT
+Added Class: Name=GSM
+Added Class: Name=LoRa
+Added Class: Name=MCU
+Added Class: Name=Power
+Added Class: Name=R_pi_LG
+Added Class: Name=Sensors
+Added Class: Name=TopSheet
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

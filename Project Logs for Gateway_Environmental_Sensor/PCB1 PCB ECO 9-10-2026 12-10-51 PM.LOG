@@ -1,0 +1,198 @@
+Added Component: Designator=D4(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(SODFL3818X130N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D6(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(SODFL3818X130N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D8(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(SODFL3818X130N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D11(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(SODFL3818X130N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(1711738)
+Added Component: Designator=J8(1711738)
+Added Component: Designator=J9(1711738)
+Added Component: Designator=J10(1711738)
+Added Component: Designator=Q6(S8550)
+Added Component: Designator=Q7(S8550)
+Added Component: Designator=Q8(S8550)
+Added Component: Designator=Q9(S8550)
+Added Component: Designator=R37(R0201)
+Added Component: Designator=R38(R0201)
+Added Component: Designator=R39(R0201)
+Added Component: Designator=R40(R0201)
+Added Component: Designator=R41(R0201)
+Added Component: Designator=R42(R0201)
+Added Component: Designator=R43(R0201)
+Added Component: Designator=R44(R0201)
+Added Component: Designator=R45(R0201)
+Added Component: Designator=RL1(SRD-05VDC-SL-C)
+Added Component: Designator=RL2(SRD-05VDC-SL-C)
+Added Component: Designator=RL3(SRD-05VDC-SL-C)
+Added Component: Designator=RL4(SRD-05VDC-SL-C)
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=5V Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=5V Pin=Q6-2
+Added Pin To Net: NetName=5V Pin=Q7-2
+Added Pin To Net: NetName=5V Pin=Q8-2
+Added Pin To Net: NetName=5V Pin=Q9-2
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R45-2
+Added Pin To Net: NetName=GND Pin=RL1-A2
+Added Pin To Net: NetName=GND Pin=RL2-A2
+Added Pin To Net: NetName=GND Pin=RL3-A2
+Added Pin To Net: NetName=GND Pin=RL4-A2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q6-3
+Added Pin To Net: NetName=NetD4_1 Pin=RL1-A1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R38-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D7-1
+Added Pin To Net: NetName=NetD6_1 Pin=Q7-3
+Added Pin To Net: NetName=NetD6_1 Pin=RL2-A1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R40-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R42-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=D10-1
+Added Pin To Net: NetName=NetD9_1 Pin=Q8-3
+Added Pin To Net: NetName=NetD9_1 Pin=RL3-A1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R43-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=D12-1
+Added Pin To Net: NetName=NetD11_1 Pin=Q9-3
+Added Pin To Net: NetName=NetD11_1 Pin=RL4-A1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R45-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=RL1-NO
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=RL1-COM
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=RL1-NC
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=RL2-NO
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=RL2-COM
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_3 Pin=RL2-NC
+Added Net: Name=NetJ8_3
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=RL3-NO
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=RL3-COM
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=RL3-NC
+Added Net: Name=NetJ9_3
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=RL4-NO
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=RL4-COM
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=RL4-NC
+Added Net: Name=NetJ10_3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R37-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R39-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R41-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R44-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U1-31
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U1-34
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U1-35
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=U1-24
+Added Net: Name=NetR44_1
+Added Class: Name=Relay
