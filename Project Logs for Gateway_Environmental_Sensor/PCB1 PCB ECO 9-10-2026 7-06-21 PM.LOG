@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-40
+Removed Pin From Net: NetName=GND Pin=U1-41_1
+Removed Pin From Net: NetName=GND Pin=U1-41_2
+Removed Pin From Net: NetName=GND Pin=U1-41_3
+Removed Pin From Net: NetName=GND Pin=U1-41_4
+Removed Pin From Net: NetName=GND Pin=U1-41_5
+Removed Pin From Net: NetName=GND Pin=U1-41_6
+Removed Pin From Net: NetName=GND Pin=U1-41_7
+Removed Pin From Net: NetName=GND Pin=U1-41_8
+Removed Pin From Net: NetName=GND Pin=U1-41_9
+Change Component Footprint: Designator=U1 Old Footprint=XCVR_ESP32-S3-WROOM-1U-N16R8 New Footprint=ESP32S3WROOM1N8R2
+Change Component Comment : Designator=U1 Old Comment=ESP32-S3-WROOM-1U-N16R8 New Comment=ESP32-S3-WROOM-1-N16R8
+Change component parameters: Designator = "U1" ("U1"); Footprint = "XCVR_ESP32-S3-WROOM-1U-N16R8"; UniqueID = "\UHXSENTB\FCNAONTU" ("\UHXSENTB\FCNAONTU")
+Added Member To Class: ClassName=Relay Member=Component D7 Generic LED
+Added Member To Class: ClassName=Relay Member=Component D10 Generic LED
