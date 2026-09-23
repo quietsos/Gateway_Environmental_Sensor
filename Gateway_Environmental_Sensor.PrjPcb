@@ -1257,14 +1257,18 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Environmental_Sensor\Environmental_Sensor.nsx
+DocumentPath=Project Outputs for Gateway_Environmental_Sensor\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Environmental_Sensor.sdf
+DocumentPath=Project Outputs for Environmental_Sensor\Environmental_Sensor.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Environmental_Sensor.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Gateway_Environmental_Sensor\Gateway_Environmental_Sensor.nsx
 DItemRevisionGUID=
 
@@ -1298,6 +1302,45 @@ StimLevel=0
 StimStartTime=1E-8
 StimStopTime=6E-8
 StimPeriodTime=1E-7
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=0
+SaveSettingsToOutJob=-1
 
 [Generic_SignalIntegrityPanelSetup]
 TerminationName0=No Termination
@@ -1404,45 +1447,6 @@ TerminationMinC7=0
 TerminationMaxC7=0
 TerminationPrefC7=0
 TerminationVCC7=5
-
-[Generic_SmartPDF]
-AutoOpenFile=-1
-AutoOpenOutJob=-1
-
-[Generic_SmartPDFSettings]
-ProjectMode=0
-ZoomPrecision=50
-AddNetsInformation=-1
-AddNetPins=-1
-AddNetNetLabels=-1
-AddNetPorts=-1
-ShowComponentParameters=-1
-GlobalBookmarks=0
-ExportBOM=0
-TemplateFilename=Board Stack Report.XLT
-TemplateStoreRelative=-1
-PCB_PrintColor=1
-SCH_PrintColor=0
-PrintQuality=-3
-SCH_ShowNoErc=-1
-SCH_ShowParameter=-1
-SCH_ShowProbes=-1
-SCH_ShowBlankets=-1
-SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
-SCH_ShowNote=-1
-SCH_ShowNoteCollapsed=-1
-Wir_PrintColor=0
-Ldr_PrintColor=0
-Esd_PrintColor=0
-SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=
-SCH_ExpandComponentDesignators=-1
-SCH_ExpandNetlabels=0
-SCH_ExpandPorts=0
-SCH_ExpandSheetNumber=0
-SCH_ExpandDocumentNumber=0
-SCH_HasExpandLogicalToPhysicalSheets=0
-SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
