@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=NetD4_1 Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=D12-2
+Removed Pin From Net: NetName=5V Pin=Q6-2
+Removed Pin From Net: NetName=NetD4_1 Pin=Q6-3
+Removed Pin From Net: NetName=5V Pin=Q7-2
+Removed Pin From Net: NetName=5V Pin=Q8-2
+Removed Pin From Net: NetName=5V Pin=Q9-2
+Removed Pin From Net: NetName=NetD11_1 Pin=Q9-3
+Removed Pin From Net: NetName=GND Pin=R38-2
+Removed Pin From Net: NetName=NetD10_2 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=R45-2
+Removed Pin From Net: NetName=NetD4_1 Pin=RL1-A1
+Removed Pin From Net: NetName=GND Pin=RL1-A2
+Removed Pin From Net: NetName=GND Pin=RL2-A2
+Removed Pin From Net: NetName=GND Pin=RL3-A2
+Removed Pin From Net: NetName=NetD11_1 Pin=RL4-A1
+Removed Pin From Net: NetName=GND Pin=RL4-A2
+Removed Member From Class: ClassName=Realy Section Member=Q6
+Removed Member From Class: ClassName=Realy Section Member=Q7
+Removed Member From Class: ClassName=Realy Section Member=Q8
+Removed Member From Class: ClassName=Realy Section Member=Q9
+Change Component Footprint: Designator=D10 Old Footprint=0603D-B New Footprint=SODFL3818X130N
+Change Component Footprint: Designator=D7 Old Footprint=0603D-B New Footprint=SOT95P240X100-3N
+Change Component Footprint: Designator=D11 Old Footprint=0603D-B New Footprint=SOT95P240X100-3N
+Change Component Footprint: Designator=D9 Old Footprint=SODFL3818X130N New Footprint=0603D-B
+Change Component Footprint: Designator=D12 Old Footprint=SODFL3818X130N New Footprint=0603D-B
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R39 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R44 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=D9 Old Comment=1N4001W-T New Comment=Generic LED
+Change Component Comment : Designator=D12 Old Comment=1N4001W-T New Comment=Generic LED
+Change Component Comment : Designator=R38 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=R45 Old Comment=470 New Comment=1K
+Change Component Comment : Designator=R40 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R43 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=D10 Old Comment=Generic LED New Comment=1N4001W-T
+Change Component Comment : Designator=D7 Old Comment=Generic LED New Comment=ZXMS6004FFQTA
+Change Component Comment : Designator=D11 Old Comment=Generic LED New Comment=ZXMS6004FFQTA
+Change component parameters: Designator = "D7" ("D7"); Footprint = "0603D-B"; UniqueID = "\QUUJLAAQ\TVZZNPWD" ("\QUUJLAAQ\TVZZNPWD")
+Change component parameters: Designator = "D11" ("D11"); Footprint = "0603D-B"; UniqueID = "\QUUJLAAQ\VFBJKJFW" ("\QUUJLAAQ\VFBJKJFW")
+Change component parameters: Designator = "D9" ("D9"); Footprint = "SODFL3818X130N"; UniqueID = "\QUUJLAAQ\IDRHIXHI" ("\QUUJLAAQ\IDRHIXHI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "0603D-B"; UniqueID = "\QUUJLAAQ\XDEKHCOL" ("\QUUJLAAQ\XDEKHCOL")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12" ("D12"); Footprint = "SODFL3818X130N"; UniqueID = "\QUUJLAAQ\QDOJHRDB" ("\QUUJLAAQ\QDOJHRDB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(SOT95P240X100-3N)
+Added Component: Designator=D14(SODFL3818X130N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "583-1N4001W-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Rectron/1N4001W-T?qs=QNEnbhJQKvbnHIVMak28nQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SOT95P240X100-3N)
+Added Component: Designator=D16(0603D-B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0805)
+Added Component: Designator=R47(R0805)
+Added Component: Designator=R48(R0805)
+Added Component: Designator=R49(R0805)
+Added Pin To Net: NetName=5V Pin=D5-1
+Added Pin To Net: NetName=5V Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=5V Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D11-3
+Added Pin To Net: NetName=NetD4_1 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-3
+Added Pin To Net: NetName=5V Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D15-3
+Added Pin To Net: NetName=NetD4_1 Pin=R37-2
+Added Pin To Net: NetName=NetD11_1 Pin=R43-2
+Added Pin To Net: NetName=NetD11_1 Pin=R44-1
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=NetD4_1 Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R48-2
+Added Pin To Net: NetName=5V Pin=RL1-A1
+Added Pin To Net: NetName=5V Pin=RL2-A1
+Added Pin To Net: NetName=5V Pin=RL3-A1
+Added Pin To Net: NetName=NetD10_2 Pin=RL3-A2
+Added Pin To Net: NetName=5V Pin=RL4-A1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D13-2
+Added Pin To Net: NetName=NetD5_2 Pin=RL1-A2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-2
+Added Pin To Net: NetName=NetD6_2 Pin=RL2-A2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D9-1
+Added Pin To Net: NetName=NetD7_1 Pin=R39-2
+Added Pin To Net: NetName=NetD7_1 Pin=R40-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=D15-2
+Added Pin To Net: NetName=NetD14_2 Pin=RL4-A2
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=D16-1
+Added Pin To Net: NetName=NetD15_1 Pin=R47-2
+Added Pin To Net: NetName=NetD15_1 Pin=R48-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=U1-35
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=U1-24
+Added Net: Name=NetR47_1
+Added Member To Class: ClassName=Realy Section Member=Component D13 ZXMS6004FFQTA
+Added Member To Class: ClassName=Realy Section Member=Component D14 1N4001W-T
+Added Member To Class: ClassName=Realy Section Member=Component D15 ZXMS6004FFQTA
+Added Member To Class: ClassName=Realy Section Member=Component D16 Generic LED
+Added Member To Class: ClassName=TopSheet Member=Component J2 USB4135-GF-A_REVA
+Added Member To Class: ClassName=Realy Section Member=Component R46 10K
+Added Member To Class: ClassName=Realy Section Member=Component R47 10K
+Added Member To Class: ClassName=Realy Section Member=Component R48 10K
+Added Member To Class: ClassName=Realy Section Member=Component R49 1K
+Added Member To Class: ClassName=GSM Member=Component U13 SIM800C GSM/GPRS Module

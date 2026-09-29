@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator= NewDesignator=Q5
+Added Component: Designator=R41(R0805)
+Added Component: Designator=R45(R0805)
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=GND Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R49-2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R38-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R41-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R45-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=R49-1
+Added Net: Name=NetD16_2
+Added Member To Class: ClassName=Realy Section Member=Component R41 1K
+Added Member To Class: ClassName=Realy Section Member=Component R45 1K
+Added Member To Class: ClassName=MCU Member=Component U1 ESP32-S3-WROOM-1-N16R8

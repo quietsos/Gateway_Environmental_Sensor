@@ -1273,6 +1273,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document73]
+DocumentPath=Altium Lib\Mosfet\Project Outputs for ZXMS6004FFQTA\ZXMS6004FFQTA.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Gateway_Environmental_Sensor\Design Rule Check - PCB1.html
 DItemRevisionGUID=
@@ -1287,6 +1304,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument4]
 DocumentPath=Project Outputs for Gateway_Environmental_Sensor\Gateway_Environmental_Sensor.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gateway_Environmental_Sensor.sdf
 DItemRevisionGUID=
 
 [Configuration1]

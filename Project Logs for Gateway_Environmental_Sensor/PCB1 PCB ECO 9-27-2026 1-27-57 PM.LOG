@@ -1,0 +1,4 @@
+Added Component: Designator=R41(R0805)
+Added Component: Designator=R45(R0805)
+Added Member To Class: ClassName=Realy Section Member=Component R41 1K
+Added Member To Class: ClassName=Realy Section Member=Component R45 1K
